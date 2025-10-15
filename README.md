@@ -3,7 +3,7 @@
 This project implements a single-layer perceptron neural network without using any machine learning libraries (e.g., no TensorFlow, PyTorch, scikit-learn). The model is trained from scratch to recognize geometric shapes (initially circles) from compressed black-and-white images. The entire implementation relies solely on NumPy for numerical operations and PIL for image processing.
 
 ## Challenge
-The primary challenge was to build a functional neural network entirely from scratch, including:
+The primary challenge was to build a functional neural network entirely from scratch, including :
 - Manual implementation of gradient descent
 - Hand-coded gradient computation using finite differences
 - Custom weight initialization and update rules
